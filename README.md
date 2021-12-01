@@ -1,6 +1,7 @@
 # github-snurse-cred
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that For custom github management
+> new PR
 
 ## Setup
 
