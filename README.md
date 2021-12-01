@@ -6,7 +6,7 @@
 
 ```sh
 # Install dependencies
-npm install
+npm start1
 
 # Run the bot
 npm start
