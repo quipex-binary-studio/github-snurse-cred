@@ -6,7 +6,7 @@
 
 ```sh
 # Install dependencies
-npm install
+npm installqwe
 
 # Run the bot
 npm start
