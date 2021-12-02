@@ -17,6 +17,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "dotenv": "^10.0.0",
     "probot": "^11.0.1"
   },
   "devDependencies": {
